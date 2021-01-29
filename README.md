@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm a WPF and C# UI Designer</h1>
 <div></div>
-<h1 align="center">Hi there, I'm a WPF and C# UI Designer</h1>
 <h3 align="center">I code and make UI's in WPF for FREE
 All you need to do is DM me on Discord: Ult!mate#0378</h3>
 
