@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![UltimateBoi's Github Stats](https://github-readme-stats.vercel.app/api?username=UltimateBoi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center>[![UltimateBoi's Github Stats](https://github-readme-stats.vercel.app/api?username=UltimateBoi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
