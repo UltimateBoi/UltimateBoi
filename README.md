@@ -1,4 +1,4 @@
-### Hi there, I'm a WPF and C# UI Designer
+<h1 align="center">Hi there, I'm a WPF and C# UI Designer</h1>
 I code and make UI's in WPF for FREE
 All you need to do is DM me on Discord: Ult!mate#0378
 
