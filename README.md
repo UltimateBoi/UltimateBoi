@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm a WPF and C# UI Designer</h1>
 <div></div>
 <h3 align="center">I code and make UI's in WPF for FREE
-All you need to do is DM me on Discord: Coder_Ultimate#0001</h3>
+All you need to do is DM me on Discord: Coder_Ultimate#4100</h3>
 
 <!--
 **UltimateBoi/UltimateBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
