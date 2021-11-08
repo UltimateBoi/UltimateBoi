@@ -12,7 +12,7 @@ All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
 </a>
 
 <a href="https://github.com/UltimateBoi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltimateBoi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltimateBoi&repo=UltimateBoi" />
 </a>
 
 <p align="center">
