@@ -11,7 +11,9 @@ All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
   </p>
 </a>
 
-  ![UltimateBoi](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+<a href="https://github.com/UltimateBoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UltimateBoi" />
+</a>
 
 <p align="center">
   <a href="https://discord.com/users/853309401178832927">
