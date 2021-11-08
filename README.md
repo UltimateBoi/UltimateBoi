@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">Payson Holmes</h1>
-<p align="center">Experienced Developer, I know C#, WPF, HTML, CSS, JS & JSON. 
+<h1 align="center">UltimateBoi AKA UltimateYT AKA Coder_Ultimate</h1>
+<p align="center">Experienced Developer, I know C#, WPF, XAML, HTML, CSS, JS & JSON. 
 I code and make UI's in WPF for FREE
 All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
 <div></div>
