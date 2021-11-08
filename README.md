@@ -11,9 +11,7 @@ All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
   </p>
 </a>
 
-<p align="center">
   ![UltimateBoi](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/853309401178832927">
