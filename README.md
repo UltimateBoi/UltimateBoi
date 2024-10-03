@@ -24,7 +24,7 @@ All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+   <img src="https://github.com/UltimateBoi/UltimateBoi/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 </p>
 
 ![Footer](./footer.png)
