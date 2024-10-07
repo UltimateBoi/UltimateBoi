@@ -25,6 +25,20 @@ All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
    <img src="https://github.com/UltimateBoi/UltimateBoi/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/UltimateBoi/UltimateBoi/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/UltimateBoi/UltimateBoi/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/UltimateBoi/UltimateBoi/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </p>
 
 ![Footer](./footer.png)
