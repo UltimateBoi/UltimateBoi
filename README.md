@@ -25,8 +25,6 @@ All you need to do is DM me on Discord: Coder_Ultimate#4100</p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
    <img src="https://github.com/UltimateBoi/UltimateBoi/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-   ![Snake animation](https://github.com/UltimateBoi/UltimateBoi/blob/output/github-contribution-grid-snake.svg)
-
 </p>
 
 ![Footer](./footer.png)
